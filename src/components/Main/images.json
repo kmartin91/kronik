@@ -1,0 +1,609 @@
+{
+  "images": [
+    {
+      "url": "images/001.jpg",
+      "date": "130607 001",
+      "caption": "Genève - Elle lui répond : \"Je suis bien ici mais je serais mieux chez moi\""
+    },
+
+    {
+      "url": "images/002.jpg",
+      "date": "140607 002",
+      "caption": "Paris - Elle : \"Dur de renoncer\" Lui : \"Nous avons renoncé à renoncer\""
+    },
+
+    {
+      "url": "images/003.jpg",
+      "date": "150607 003",
+      "caption": "Paris - Aujourd'hui : \"Nos maladies sont compatibles !\""
+    },
+
+    {
+      "url": "images/004.jpg",
+      "date": "160607 004",
+      "caption": "Paris - Elle a crié : \"Va-t'en ! Rentre chez toi ! Et merci pour tout !\""
+    },
+
+    {
+      "url": "images/005.jpg",
+      "date": "170607 005",
+      "caption": "Alfortville - \"Il va bien. Il grandit\""
+    },
+
+    {
+      "url": "images/006.jpg",
+      "date": "180607 006",
+      "caption": "Paris - Il s'est défendu : \"Oui, je suis jeune comme jeune, de droite comme de gauche !\""
+    },
+
+    {
+      "url": "images/007.jpg",
+      "date": "190607 007",
+      "caption": "Paris - J'ai pensé : \"Je suis ce que je fais\""
+    },
+
+    {
+      "url": "images/008.jpg",
+      "date": "200607 008",
+      "caption": "Milano - Il m'a écrit : \"Calma ! Obsédé ! Prie pour ta bouteille !\""
+    },
+
+    {
+      "url": "images/009.jpg",
+      "date": "210607 009",
+      "caption": "Valencia - Lui : \"J'attends des rencontres... en quinconce\""
+    },
+
+    {
+      "url": "images/010.jpg",
+      "date": "220607 010",
+      "caption": "Valencia - Il s'est dit : \"Alors, ici je ne suis jamais venu. Ça c'est sûr\""
+    },
+
+    {
+      "url": "images/011.jpg",
+      "date": "230607 011",
+      "caption": "Valencia - \"Nous avons atteint notre seuil de tolérance\""
+    },
+
+    {
+      "url": "images/012.jpg",
+      "date": "240607 012",
+      "caption": "Milano - \"J'attends un signe\""
+    },
+
+    {
+      "url": "images/013.jpg",
+      "date": "250607 013",
+      "caption": "Milano - Il m'avait demandé : \"C'est toi qui gratte derrière la porte ?\""
+    },
+
+    {
+      "url": "images/014.jpg",
+      "date": "260607 014",
+      "caption": "Milano - Au téléphone : \"Pour le tarif... c'est le tarif silhouette\""
+    },
+
+    {
+      "url": "images/015.jpg",
+      "date": "270607 015",
+      "caption": "Nantua - Je me suis répété : \"On peut les repeindre ?\""
+    },
+
+    {
+      "url": "images/016.jpg",
+      "date": "280607 016",
+      "caption": "Pantin - Il nous a dit : \"Jouez plus fort. N'hésitez pas. Improvisez\""
+    },
+
+    {
+      "url": "images/017.jpg",
+      "date": "290607 017",
+      "caption": "Paris - Il lui a crié : \"Dépêche toi ! Je m'ennuie tout seul\""
+    },
+
+    {
+      "url": "images/018.jpg",
+      "date": "300607 018",
+      "caption": "Puteaux - \"... je suis cuit, je suis cuit !\""
+    },
+
+    {
+      "url": "images/019.jpg",
+      "date": "010707 019",
+      "caption": "Puteaux - Elle m'a affirmé : \"On paye, on fait ce qu'on veut\""
+    },
+
+    {
+      "url": "images/020.jpg",
+      "date": "020707 020",
+      "caption": "Paris - \"Pourtant elle m'a dit que tu avais des sentiments\""
+    },
+
+    {
+      "url": "images/021.jpg",
+      "date": "030707 021",
+      "caption": "Berlin - \"Techniciens en grève\""
+    },
+
+    {
+      "url": "images/022.jpg",
+      "date": "040707 022",
+      "caption": "Berlin - Elle m'a conseillé : \"Il faut tisser ce qui est positif\""
+    },
+
+    {
+      "url": "images/023.jpg",
+      "date": "050707 023",
+      "caption": "Berlin - Elles lui ont dit : \"Hallo Little China Man\""
+    },
+
+    {
+      "url": "images/024.jpg",
+      "date": "060707 024",
+      "caption": "Brandenburg - \"La vie m'a appris à cicatriser\""
+    },
+
+    {
+      "url": "images/025.jpg",
+      "date": "070707 025",
+      "caption": "Brandenburg - Il m'a demandé : \"Aimes-tu les cimetières ?\""
+    },
+
+    {
+      "url": "images/026.jpg",
+      "date": "080707 026",
+      "caption": "Berlin - \"Si tu as un animal, amène-le moi\""
+    },
+
+    {
+      "url": "images/027.jpg",
+      "date": "090707 027",
+      "caption": "Berlin - Elle a constaté : \"Ça a changé avec le temps\""
+    },
+
+    {
+      "url": "images/028.jpg",
+      "date": "100707 028",
+      "caption": "Berlin - Il m'a affirmé : \"Ici les gens ne savent plus s'amuser. Ils s'ennuient\""
+    },
+
+    {
+      "url": "images/029.jpg",
+      "date": "110707 029",
+      "caption": "Berlin - \"Qu'est-ce que tu fais à Berlin à part la queue ?\""
+    },
+
+    {
+      "url": "images/030.jpg",
+      "date": "120707 030",
+      "caption": "Berlin - \"C'est pas trop facile, mais je ne me démoralise pas\""
+    },
+
+    {
+      "url": "images/031.jpg",
+      "date": "130707 031",
+      "caption": "Berlin - Il m'avait écrit : \"Mais n'oublie pas de raser tes jambes !\""
+    },
+
+    {
+      "url": "images/032.jpg",
+      "date": "140707 032",
+      "caption": "Berlin - \"Je reviens. Je vais chercher une photo\""
+    },
+
+    {
+      "url": "images/033.jpg",
+      "date": "150707 033",
+      "caption": "Berlin - Elle m'a dit : \"Tu te sens en sécurité seulement quand tu es chez toi\""
+    },
+
+    {
+      "url": "images/034.jpg",
+      "date": "160707 034",
+      "caption": "Berlin - \"Un dessin ou puis-je utiliser toute autre technique de mon choix ?\""
+    },
+
+    {
+      "url": "images/035.jpg",
+      "date": "170707 035",
+      "caption": "Berlin - \"Les retrouvailles se feront avec émotion\""
+    },
+
+    {
+      "url": "images/036.jpg",
+      "date": "180707 036",
+      "caption": "Berlin - Elle s'est rappelé : \"Tant qu'il y a de la vie il y a de l'espoir\""
+    },
+
+    {
+      "url": "images/037.jpg",
+      "date": "190707 037",
+      "caption": "Berlin - \"Alors que l'attente souvent c'est euphorisant, joyeux et excitant\""
+    },
+
+    {
+      "url": "images/038.jpg",
+      "date": "200707 038",
+      "caption": "Berlin - Elle : \"Rien est immobile\""
+    },
+
+    {
+      "url": "images/039.jpg",
+      "date": "210707 039",
+      "caption": "Berlin - \"Tu te vois enfermé dans un cube\""
+    },
+
+    {
+      "url": "images/040.jpg",
+      "date": "220707 040",
+      "caption": "Berlin - Il m'a demandé : \"Je peux savoir à quoi tu joues ?\""
+    },
+
+    {
+      "url": "images/041.jpg",
+      "date": "230707 041",
+      "caption": "Berlin - Elle pensait : \"Ce n'est pas en se repliant sur soi-même que l'on avance\""
+    },
+
+    {
+      "url": "images/042.jpg",
+      "date": "240707 042",
+      "caption": "Waltershofen - Il l'a prévenue : \"Ça prendra le temps que ça prendra\""
+    },
+
+    {
+      "url": "images/043.jpg",
+      "date": "250707 043",
+      "caption": "Milano - \"Enfin de retour à la maison\""
+    },
+
+    {
+      "url": "images/044.jpg",
+      "date": "260707 044",
+      "caption": "Milano - Il a dit : \"L'art sublime ma souffrance\""
+    },
+
+    {
+      "url": "images/045.jpg",
+      "date": "270707 045",
+      "caption": "Milano - \"Evidemment les garçons sont priés d'amener à boire...\""
+    },
+
+    {
+      "url": "images/046.jpg",
+      "date": "280707 046",
+      "caption": "Giardini - \"Tu dois être en forme, donc je me répète, bouge, marche, fais du sport\""
+    },
+
+    {
+      "url": "images/047.jpg",
+      "date": "290707 047",
+      "caption": "Giardini - \"Désolé de ne pas avoir pu donner de nouvelles...\""
+    },
+
+    {
+      "url": "images/048.jpg",
+      "date": "300707 048",
+      "caption": "GiaMonte Etna - \"Il est passé sur ce chemin, je le sens triste et loin\""
+    },
+
+    {
+      "url": "images/049.jpg",
+      "date": "310707 049",
+      "caption": "Taormina - Elle suggéra : \"Arrosons nos morts !\""
+    },
+
+    {
+      "url": "images/050.jpg",
+      "date": "010807 050",
+      "caption": "Catania - Il s'est excusé : \"Je n'arrête pas de travailler, je n'ai plus beaucoup de temps\""
+    },
+
+    {
+      "url": "images/051.jpg",
+      "date": "020807 051",
+      "caption": "Messina - Elle lui a dit : \"Une mère est toujours liée à son enfant\""
+    },
+
+    {
+      "url": "images/052.jpg",
+      "date": "030807 052",
+      "caption": "Mazzarò - \"Tes rêves sont le reflet de tes angoisses\""
+    },
+
+    {
+      "url": "images/053.jpg",
+      "date": "040807 053",
+      "caption": "Milano - \"Nous avons tous le même père\""
+    },
+
+    {
+      "url": "images/054.jpg",
+      "date": "050807 054",
+      "caption": "Milano - \"Regarder et ne pas pouvoir toucher\""
+    },
+
+    {
+      "url": "images/055.jpg",
+      "date": "060807 055",
+      "caption": "Milano - Elle s'est inquiété : \"Ça devient une obsession\""
+    },
+
+    {
+      "url": "images/056.jpg",
+      "date": "070807 056",
+      "caption": "Milano - \"Elle considère être dans une période de volupté expérimentale\""
+    },
+
+    {
+      "url": "images/057.jpg",
+      "date": "080807 057",
+      "caption": "Milano - \"Tu dois décharger tes tensions\""
+    },
+
+    {
+      "url": "images/058.jpg",
+      "date": "090807 058",
+      "caption": "Milano - \"Je désire mettre mon profil de comédienne entre vos mains...\""
+    },
+
+    {
+      "url": "images/059.jpg",
+      "date": "100807 059",
+      "caption": "Milano - \"Cela représente une part de ton inconscient\""
+    },
+
+    {
+      "url": "images/060.jpg",
+      "date": "110807 060",
+      "caption": "Milano - \"En fils unique, tu agis avec les autres comme si tu étais seul\""
+    },
+
+    {
+      "url": "images/061.jpg",
+      "date": "120807 061",
+      "caption": "Milano - \"Et vous êtes vraiment très beaux ensemble...\""
+    },
+
+    {
+      "url": "images/062.jpg",
+      "date": "130807 062",
+      "caption": "Milano - Il lui disait : \"Ne pense pas au mal, ainsi le mal disparaît\""
+    },
+
+    {
+      "url": "images/063.jpg",
+      "date": "140807 063",
+      "caption": "Milano - \"Ne t'inquiète pas. Ils vont réapparaître\""
+    },
+
+    {
+      "url": "images/064.jpg",
+      "date": "150807 064",
+      "caption": "Milano - \"Merci pour les fleurs\""
+    },
+
+    {
+      "url": "images/065.jpg",
+      "date": "160807 065",
+      "caption": "Milano - \"Il n'a plus l'âge de jouer aux boules\""
+    },
+
+    {
+      "url": "images/066.jpg",
+      "date": "170807 066",
+      "caption": "Milano - \"Mais surtout n'oublie pas de donner le bêtabloquant au chat !\""
+    },
+
+    {
+      "url": "images/067.jpg",
+      "date": "180807 067",
+      "caption": "Milano - \"Nous avons été heureux ensemble mais nous sommes trop loin pour l'instant\""
+    },
+
+    {
+      "url": "images/068.jpg",
+      "date": "190807 068",
+      "caption": "Milano - \"Laisse passer le temps et tout ira pour le mieux\""
+    },
+
+    {
+      "url": "images/069.jpg",
+      "date": "200807 069",
+      "caption": "Milano - \"C'est bien ça... le souvenir d'une ville anonyme\""
+    },
+
+    {
+      "url": "images/070.jpg",
+      "date": "210807 070",
+      "caption": "Milano - Elle m'a dit : \"Je me vois comme je m'entends\""
+    },
+
+    {
+      "url": "images/071.jpg",
+      "date": "220807 071",
+      "caption": "Milano - \"Les rêves voyagent\""
+    },
+
+    {
+      "url": "images/072.jpg",
+      "date": "230807 072",
+      "caption": "Milano - \"J'ai été très explicite\""
+    },
+
+    {
+      "url": "images/073.jpg",
+      "date": "240807 073",
+      "caption": "Milano - Nous nous sommes dit : \"Ne baissons pas les bras !\""
+    },
+
+    {
+      "url": "images/074.jpg",
+      "date": "250807 074",
+      "caption": "Milano - \"Je suis en train de faiblir d'intensité\""
+    },
+
+    {
+      "url": "images/075.jpg",
+      "date": "260807 075",
+      "caption": "Milano - \"Elle est vieille, elle est grosse et elle n'a plus de souffle\""
+    },
+
+    {
+      "url": "images/076.jpg",
+      "date": "270807 076",
+      "caption": "Sorbara - \"Tu connais bien le protocole... après deux cafés...\""
+    },
+
+    {
+      "url": "images/077.jpg",
+      "date": "280807 077",
+      "caption": "Zürich - \"Bon. Ça a pas l'air de s'arranger\""
+    },
+
+    {
+      "url": "images/078.jpg",
+      "date": "290807 078",
+      "caption": "Zürich - \"Je pense que c'est la dernière fois que nous le voyons\""
+    },
+
+    {
+      "url": "images/079.jpg",
+      "date": "300807 079",
+      "caption": "Milano - \"En Italie, tout passe après la bouffe\""
+    },
+
+    {
+      "url": "images/080.jpg",
+      "date": "310807 080",
+      "caption": "Milano - \"Mes jambes m'entraînent, j'ai choisi mon chemin\""
+    },
+
+    {
+      "url": "images/081.jpg",
+      "date": "010907 081",
+      "caption": "Milano - \"Il n'y a pas d'âge pour avoir des enfants\""
+    },
+
+    {
+      "url": "images/082.jpg",
+      "date": "020907 082",
+      "caption": "Milano - \"Tant qu'ils sont là, laisse-les pousser\""
+    },
+
+    {
+      "url": "images/083.jpg",
+      "date": "030907 083",
+      "caption": "Milano - \"Dans l'espoir d'avoir des retours, je vous salue\""
+    },
+
+    {
+      "url": "images/084.jpg",
+      "date": "040907 084",
+      "caption": "Milano - \"Je suis à la recherche d'un lieu d'habitation et ce dans les plus brefs délais\""
+    },
+
+    {
+      "url": "images/085.jpg",
+      "date": "050907 085",
+      "caption": "Milano - \"Tu as raison. Dans l'art, il faut être mégalo\""
+    },
+
+    {
+      "url": "images/086.jpg",
+      "date": "060907 086",
+      "caption": "Milano - ... et ne pas se laisser rattraper par les mirages\""
+    },
+
+    {
+      "url": "images/087.jpg",
+      "date": "070907 087",
+      "caption": "Firenze - \"Elle à l'air de bien encaisser ses malheurs !\""
+    },
+
+    {
+      "url": "images/088.jpg",
+      "date": "080907 088",
+      "caption": "Milano - \"Aigreurs d'estomac, dépenses inutiles et ennui\""
+    },
+
+    {
+      "url": "images/089.jpg",
+      "date": "090907 089",
+      "caption": "Milano - \"Si la peur de la mort devient obsessionnelle, elle te fige\""
+    },
+
+    {
+      "url": "images/090.jpg",
+      "date": "100907 090",
+      "caption": "Milano - \"Tu vas bien ? Réponds, j'ai rêvé que tu avais un accident, je suis inquiète\""
+    },
+
+    {
+      "url": "images/091.jpg",
+      "date": "110907 091",
+      "caption": "Milano - Lui : \"J'ai compris mes erreurs. Je me retire la tête basse\""
+    },
+
+    {
+      "url": "images/092.jpg",
+      "date": "120907 092",
+      "caption": "Milano - Elle : \"Je voudrais t'entendre un de ces jours\""
+    },
+
+    {
+      "url": "images/093.jpg",
+      "date": "130907 093",
+      "caption": "Milano - \"Tu vois bien qu'humainement, tu n'es pas capable de grand chose\""
+    },
+
+    {
+      "url": "images/094.jpg",
+      "date": "140907 094",
+      "caption": "Paris - \"Tout est bien imbriqué au-delà de toute pensée\""
+    },
+
+    {
+      "url": "images/095.jpg",
+      "date": "150907 095",
+      "caption": "Paris - Elle a dit : \"Pense à la musculation. C'est pareil mentalement\""
+    },
+
+    {
+      "url": "images/096.jpg",
+      "date": "160907 096",
+      "caption": "Paris - \"Sois à l'écoute de ce qui t'entoure\""
+    },
+
+    {
+      "url": "images/097.jpg",
+      "date": "170907 097",
+      "caption": "Milano - \"De toute façon, c'est un jeu d'équilibre\""
+    },
+
+    {
+      "url": "images/098.jpg",
+      "date": "180907 098",
+      "caption": "Milano - \"Tout peut être transformé par la volonté mentale\""
+    },
+
+    {
+      "url": "images/099.jpg",
+      "date": "190907 099",
+      "caption": "Milano - \"Ils se sont entendus à merveille\""
+    },
+
+    {
+      "url": "images/100.jpg",
+      "date": "200907 100",
+      "caption": "Milano - \"J'ai dû accepter cette grossesse\""
+    },
+
+    {
+      "url": "images/101.jpg",
+      "date": "210907 101",
+      "caption": "Milano - \"Mais, ce que je préfère, c’est rester en famille\""
+    }
+  ]
+}

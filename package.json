@@ -1,0 +1,28 @@
+{
+  "name": "kronik",
+  "version": "1.0.0",
+  "description": "A Wolgang Natlacen's project",
+  "main": "index.js",
+  "repository": "https://github.com/kmartin91/kronik",
+  "author": "Kevin Martin",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-slideshow-image": "^3.5.0",
+    "sass": "^1.35.2"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-plugin-static-files-copy": "^2.6.0"
+  },
+  "staticFiles": {
+    "staticPath": "static",
+    "watcherGlob": "**"
+  }
+}
