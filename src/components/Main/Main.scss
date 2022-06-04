@@ -45,7 +45,7 @@ body {
   position: absolute;
   font-weight: bold;
   color: white;
-  bottom: 1rem;
+  bottom: 10%;
   left: 50%;
   font-size: 30px;
   transform: translateX(-50%);
@@ -82,11 +82,9 @@ body {
   right: 1rem;
 }
 
-// media queries mobile 768px
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
   .Main__caption {
     font-size: 20px;
-    bottom: 10%;
   }
 
   .Main__button {
