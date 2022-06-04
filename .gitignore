@@ -30,3 +30,5 @@ npm-debug.log
 *.orig
 
 .editorconfig
+
+.parcel-cache
