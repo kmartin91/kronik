@@ -2,16 +2,15 @@
   "name": "kronik",
   "version": "1.0.0",
   "description": "A Wolgang Natlacen's project",
-  "main": "index.js",
   "repository": "https://github.com/kmartin91/kronik",
   "author": "Kevin Martin",
   "license": "MIT",
   "source": "index.html",
   "dependencies": {
+    "@swc/helpers": "^0.3.17",
     "parcel": "^2.6.0",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0",
-    "react-slideshow-image": "^3.7.5"
+    "react-dom": "^18.1.0"
   },
   "scripts": {
     "dev": "parcel",
