@@ -14,7 +14,9 @@ body {
 .Main > ul {
   margin: 0;
   padding: 0;
-  list-style: none;
+  list-style: none;    
+  position: relative;
+  height: inherit;
 }
 
 .Main__slide {
