@@ -24,6 +24,7 @@ const Main = () => {
                 className="Main__image"
                 src={url}
                 alt={`${date} ${caption}`}
+                loading="lazy"
               />
               <div className="Main__caption">
                 <span className="Main__date">{date}</span> {caption}
