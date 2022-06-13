@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useSwipeable } from "react-swipeable";
 import data from "./images.json";
 
 import "./Main.scss";
@@ -7,8 +8,13 @@ const Main = () => {
   const [activeSlide, setActiveSlide] = useState(0);
   const { images = [] } = data || [];
 
+  const handlers = useSwipeable({
+    onSwipedRight: () => setActiveSlide(activeSlide === 0 ? images.length - 1 : activeSlide - 1),
+    onSwipedLeft:  () => setActiveSlide(activeSlide === images.length - 1 ? 0 : activeSlide + 1),
+  });
+
   return (
-    <div className="Main" data-carousel>
+    <div className="Main" data-carousel {...handlers}>
       <button className="Main__button prev" onClick={() => !console.log("prev") && 
         setActiveSlide(activeSlide === 0 ? images.length - 1 : activeSlide - 1)
         } data-carousel-button="prev">&#8656;</button>
