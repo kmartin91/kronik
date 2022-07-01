@@ -1,13 +1,14 @@
 # Chronique de l'attente
 ## _A Wolfgang Natlacen's project_
 
-chronique téléphotographique ::: wolfgang natlacen
+[chronique téléphotographique](https://chronique.natlacen.com/) ::: wolfgang natlacen
+
 
 ## Stack
 
-- [ReactJS]
-- [Parcel v2]
-- React-Swipeable]
+- ReactJS
+- Parcel v2
+- React-Swipeable
 
 
 ## Development
